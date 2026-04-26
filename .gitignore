@@ -1,0 +1,16 @@
+venv/
+
+boulder.db
+
+__pycache__/
+*.pyc
+*.pyo
+
+.streamlit/
+
+.vscode/
+
+.env
+
+.DS_Store
+Thumbs.db
